@@ -20,7 +20,7 @@
     --forest-dark: #022c22;
     
     /* Background with Overlay */
-    --bg-overlay: rgba(6, 95, 70, 0.92);
+    --bg-overlay: rgba(6, 95, 70, 0.3);
     --bg-overlay-light: rgba(16, 185, 129, 0.15);
     
     /* Text Colors */
